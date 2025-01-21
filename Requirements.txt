@@ -1,0 +1,12 @@
+openai
+langchain
+transformers
+huggingface_hub
+streamlit
+python-dotenv
+PyPDF2
+langchain_community
+reportlab
+langchain_openai
+
+-e .
